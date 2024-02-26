@@ -7,7 +7,7 @@
 
 ### 🛠️ My tech stack:
 <p align="center">
-<img width="6%" title="IntelliJ IDEA" src="images/Idea.svg">
+<img width="6%" title="IntelliJ IDEA" src="images/Idea.png">
 <img width="6%" title="RestAssured" src="images/RestAssured.png">
 <img width="6%" title="Java" src="images/Java.svg">
 <img width="6%" title="Postman" src="Postman.svg">
