@@ -8,20 +8,20 @@
 ### 🛠️ My tech stack:
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/Idea.svg">
-<img width="6%" title="RestAssured" src="images/logo/RestAssured.png">
+<img width="6%" title="RestAssured" src="images/RestAssured.png">
 <img width="6%" title="Java" src="images/Java.svg">
 <img width="6%" title="Postman" src="Postman.svg">
 <img width="6%" title="Selenide" src="images/Selenide.svg">
 <img width="6%" title="Selenoid" src="images/Selenoid.svg">
 <img width="6%" title="Android Studio" src="images/AndroidStudio.svg">
 <img width="6%" title="Appium inspector" src="images/AppiumInspector.png">
-<img width="6%" title="Allure Report" src="images/logo/AllureReport.svg">
-<img width="5%" title="Allure TestOps" src="images/AllureTestOps.svg">
+<img width="6%" title="Allure Report" src="images/Allure.svg">
+<img width="6%" title="Allure TestOps" src="images/AllureTestOps.svg">
 <img width="6%" title="Gradle" src="images/Gradle.svg">
 <img width="6%" title="Appium" src="images/Appium.png">
-<img width="6%" title="JUnit5" src="images/Junit5.svg">
+<img width="6%" title="JUnit5" src="images/JUnit5.svg">
 <img width="6%" title="Jenkins" src="images/Jenkins.svg">
-<img width="5%" title="Jira" src="images/Jira.svg">
+<img width="6%" title="Jira" src="images/Jira.svg">
 </p>
 
 ---
