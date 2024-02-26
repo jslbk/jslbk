@@ -5,11 +5,11 @@
   <a href="https://t.me/julyanslabko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <br>
+&nbsp;
   <a href="mailto:juljans.slabko@gmail.com">
     <img src="https://img.shields.io/badge/@gmail.com-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <br>
+&nbsp;
   <a href="https://www.linkedin.com/in/julyan-slabko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
   </a>
