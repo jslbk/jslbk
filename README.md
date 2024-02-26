@@ -5,11 +5,11 @@
   <a href="https://t.me/julyanslabko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-
+  <br>
   <a href="mailto:juljans.slabko@gmail.com">
     <img src="https://img.shields.io/badge/@gmail.com-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
   </a>
-
+  <br>
   <a href="https://www.linkedin.com/in/julyan-slabko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
   </a>
@@ -35,7 +35,7 @@
 
 ## ⭐ My projects:
 ### UI tests 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=UI_Web_Sibintek_Tests)](https://github.com/Lenok1998/Sibintek_AutomationTests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=bob-test-automation)](https://github.com/jslbk/bob-test-automation)
 ### Mobile tests 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=mobile_tests)](https://github.com/jslbk/mobile_tests)
 ### API tests
