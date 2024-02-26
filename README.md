@@ -1,20 +1,11 @@
 <h1 align="left"> Hey, I'm Julyan!</h1>
 <h3 align="left"> QA Automation Engineer</h3>
 
-### Contacts:
-<a href="https://t.me/julyanslabko" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram"/>
-</a>
+![Alt Text](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
 
-<a href="mailto:juljans.slabko@gmail.com" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/gmail-grey?style=for-the-badge&logo=gmail"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/julyan-slabko/" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin"/>
-</a>
-
-### Tech stack:
+### 🛠️ My tech stack:
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Idea.svg">
 <img width="6%" title="RestAssured" src="images/logo/RestAssured.png">
@@ -33,10 +24,19 @@
 <img width="5%" title="Jira" src="images/logo/Jira.svg">
 </p>
 
-## ⭐ My projects:
-### UI tests 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=bob-test-automation)](https://github.com/jslbk/bob-test-automation)
-### Mobile tests 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=mobile_tests)](https://github.com/jslbk/mobile_tests)
-### API tests
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=reqres_rest_assured)](https://github.com/jslbk/reqres_rest_assured)
+---
+
+### ⭐ UI tests 
+[![UI tests](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=bob-test-automation&bg_color=0d1117&border_color=484f58&show_owner=true)](https://github.com/jslbk/bob-test-automation)
+
+### ⭐ Mobile tests 
+[![Mobile tests](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=mobile_tests&bg_color=0d1117&border_color=484f58&show_owner=true)](https://github.com/jslbk/mobile_tests)
+
+### ⭐ API tests
+[![API tests](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=reqres_rest_assured&bg_color=0d1117&border_color=484f58&show_owner=true)](https://github.com/jslbk/reqres_rest_assured)
+
+---
+
+[![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/julyanslabko)
+[![Gmail](https://img.shields.io/badge/gmail-grey?style=for-the-badge&logo=gmail)](mailto:juljans.slabko@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julyan-slabko/)
