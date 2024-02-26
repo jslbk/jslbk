@@ -2,20 +2,17 @@
 <h3 align="left"> QA Automation Engineer</h3>
 
 ### Contacts:
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
-  <a href="https://t.me/julyanslabko">
-    <img src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram"/>
-  </a>
-  <a href="mailto:juljans.slabko@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-grey?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/julyan-slabko/">
-    <img src="https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="https://t.me/julyanslabko" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram"/>
+</a>
+
+<a href="mailto:juljans.slabko@gmail.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/gmail-grey?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/julyan-slabko/" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin"/>
+</a>
 
 ### Tech stack:
 <p align="center">
