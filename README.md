@@ -3,13 +3,13 @@
 
 ### Contacts:
   <a href="https://t.me/julyanslabko">
-    <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram"/>
   </a>
   <a href="mailto:juljans.slabko@gmail.com">
-    <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=gmail" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/gmail-grey?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/julyan-slabko/">
-    <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 
 ### Tech stack:
