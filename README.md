@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="left"> Hey, I'm Julyan!</h1>
+<h3 align="left"> QA Automation Engineer</h3>
 
-<!--
-**jslbk/jslbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contacts:
+  <a href="https://t.me/julyanslabko">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
-Here are some ideas to get you started:
+  <a href="mailto:juljans.slabko@gmail.com">
+    <img src="https://img.shields.io/badge/@gmail.com-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/julyan-slabko/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+### Tech stack:
+<p align="center">
+<img width="6%" title="IntelliJ IDEA" src="images/logo/Idea.svg">
+<img width="6%" title="RestAssured" src="images/logo/RestAssured.png">
+<img width="6%" title="Java" src="images/logo/Java.svg">
+<img width="6%" title="Selenide" src="images/logo/Selenide.svg">
+<img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
+<img width="6%" title="Android Studio" src="images/logo/androidstudio.svg">
+<img width="6%" title="Appium inspector" src="images/logo/appium_inspector.png">
+<img width="6%" title="Allure Report" src="images/logo/Allure.svg">
+<img width="5%" title="Allure TestOps" src="images/logo/Allure_TO.svg">
+<img width="6%" title="Gradle" src="images/logo/Gradle.svg">
+<img width="6%" title="Appium" src="images/logo/Appium.svg">
+<img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
+<img width="6%" title="GitHub" src="images/logo/GitHub.svg">
+<img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
+<img width="5%" title="Jira" src="images/logo/Jira.svg">
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jslbk&show_icons=true&theme=transparent&locale=en)
+
+
+## :teacher: My projects
+### UI-tests 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=UI_Web_Sibintek_Tests)](https://github.com/Lenok1998/Sibintek_AutomationTests)
+### Mobile-tests 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=mobile_tests)](https://github.com/jslbk/mobile_tests)
+### API-tests
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=reqres_rest_assured)](https://github.com/jslbk/reqres_rest_assured)
