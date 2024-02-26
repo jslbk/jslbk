@@ -21,10 +21,10 @@
 <img width="6%" title="Java" src="images/logo/Java.svg">
 <img width="6%" title="Selenide" src="images/logo/Selenide.svg">
 <img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
-<img width="6%" title="Android Studio" src="images/logo/androidstudio.svg">
-<img width="6%" title="Appium inspector" src="images/logo/appium_inspector.png">
-<img width="6%" title="Allure Report" src="images/logo/Allure.svg">
-<img width="5%" title="Allure TestOps" src="images/logo/Allure_TO.svg">
+<img width="6%" title="Android Studio" src="images/logo/AndroidStudio.svg">
+<img width="6%" title="Appium inspector" src="images/logo/AppiumInspector.png">
+<img width="6%" title="Allure Report" src="images/logo/AllureReport.svg">
+<img width="5%" title="Allure TestOps" src="images/logo/AllureTestOps.svg">
 <img width="6%" title="Gradle" src="images/logo/Gradle.svg">
 <img width="6%" title="Appium" src="images/logo/Appium.svg">
 <img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
@@ -33,13 +33,10 @@
 <img width="5%" title="Jira" src="images/logo/Jira.svg">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jslbk&show_icons=true&theme=transparent&locale=en)
-
-
-## :teacher: My projects
-### UI-tests 
+## ⭐ My projects:
+### UI tests 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=UI_Web_Sibintek_Tests)](https://github.com/Lenok1998/Sibintek_AutomationTests)
-### Mobile-tests 
+### Mobile tests 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=mobile_tests)](https://github.com/jslbk/mobile_tests)
-### API-tests
+### API tests
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=reqres_rest_assured)](https://github.com/jslbk/reqres_rest_assured)
