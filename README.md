@@ -2,6 +2,11 @@
 <h3 align="left"> QA Automation Engineer</h3>
 
 ### Contacts:
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
   <a href="https://t.me/julyanslabko">
     <img src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram"/>
   </a>
