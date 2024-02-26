@@ -1,5 +1,6 @@
 <h1 align="left"> Hey, I'm Julyan!</h1>
-<h3 align="left"> QA Automation Engineer</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=22&duration=7000&pause=5000&color=FFFFFF&random=false&width=435&lines=QA+Automation+Engineer)](https://git.io/typing-svg)
 
 ![Alt Text](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
 
