@@ -38,9 +38,9 @@ I am a dedicated QA Specialist with a solid background in manual and automation 
 <br>
 
 ## 📂 Projects:
-[![UI tests](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=bob-test-automation&bg_color=0d1117&border_color=484f58&show_owner=true)](https://github.com/jslbk/bob-test-automation)
-[![Mobile tests](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=mobile_tests&bg_color=0d1117&border_color=484f58&show_owner=true)](https://github.com/jslbk/mobile_tests)
-[![API tests](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=reqres_rest_assured&bg_color=0d1117&border_color=484f58&show_owner=true)](https://github.com/jslbk/reqres_rest_assured)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=bob-test-automation&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/bob-test-automation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=mobile_tests&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/mobile_tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=reqres_rest_assured&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/reqres_rest_assured)
 
 ---
 
