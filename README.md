@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Julyan! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-I am a dedicated QA Specialist with a solid background in manual and automation testing, offering over two years of valuable experience. 
+I'm a dedicated QA Specialist with a solid background in manual and automation testing.
 
 ---
 
