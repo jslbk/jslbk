@@ -1,12 +1,12 @@
 <h1 align="left">Hey, I'm Julyan! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-I'm a dedicated QA Specialist with a solid background in manual and automation testing.
+I'm a dedicated <code>QA Specialist</code> with a solid background in manual and automation testing.
 
 ---
 
 <br>
 
-## 🛠️  Tech stack:
+## 🛠️ Tech stack:
 <p align="center">
     <img width="6%" title="IntelliJ IDEA" src="images/Idea.png">
     <img width="6%" title="Java" src="images/Java.svg">
@@ -38,7 +38,7 @@ I'm a dedicated QA Specialist with a solid background in manual and automation t
 <br>
 
 ## 📂 Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=bob-test-automation&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/bob-test-automation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=ui_test_automation&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/ui_test_automation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=mobile_tests&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/mobile_tests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=reqres_rest_assured&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/reqres_rest_assured)
 
