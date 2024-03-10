@@ -24,8 +24,7 @@ I'm a dedicated <code>QA Specialist</code> with a solid background in manual and
     <img width="6%" title="Appium" src="images/Appium.png">
 </p>
 
-<br>
-
+----
 ## 🚀  Skills:
 - **Manual and Automation Testing**: Proficient in both manual and automation testing methodologies.
 - **Test Scenario Creation**: Skilled at creating comprehensive test scenarios for web and mobile applications.
@@ -34,15 +33,14 @@ I'm a dedicated <code>QA Specialist</code> with a solid background in manual and
 - **UI Automation Testing**: Actively contributed to enhancing UI automation tests using Java, Selenide, and JUnit5.
 - **CI/CD Workflow Management**: Efficiently manage test automation workflows within Jenkins CI/CD system.
 
-<br>
 
+----
 ## 📂 Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=ui_test_automation&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/ui_test_automation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=mobile_tests&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/mobile_tests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=rest_api_test_project&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/rest_api_test_project)
 
 ---
-
 ## 📫 Get in Touch
 [![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/julyanslabko)
 [![Gmail](https://img.shields.io/badge/gmail-grey?style=for-the-badge&logo=gmail)](mailto:juljans.slabko@gmail.com)
