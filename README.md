@@ -40,7 +40,7 @@ I'm a dedicated <code>QA Specialist</code> with a solid background in manual and
 ## 📂 Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=ui_test_automation&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/ui_test_automation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=mobile_tests&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/mobile_tests)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=reqres_rest_assured&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/reqres_rest_assured)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=rest_api_test_project&bg_color=F0F0F0&border_color=F0F0F0)](https://github.com/jslbk/rest_api_test_project)
 
 ---
 
