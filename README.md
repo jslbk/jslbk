@@ -3,10 +3,8 @@
 I'm a dedicated <code>QA Specialist</code> with a solid background in manual and automation testing.
 
 ---
+## 🛠️ Technologies:
 
-<br>
-
-## 🛠️ Tech stack:
 <p align="center">
     <img width="6%" title="IntelliJ IDEA" src="images/Idea.png">
     <img width="6%" title="Java" src="images/Java.svg">
@@ -23,6 +21,8 @@ I'm a dedicated <code>QA Specialist</code> with a solid background in manual and
     <img width="6%" title="RestAssured" src="images/RestAssured.png">
     <img width="6%" title="Appium" src="images/Appium.png">
 </p>
+
+> List of technologies and languages I've had experience with in the past, or use currently.
 
 ----
 ## 🚀  Skills:
