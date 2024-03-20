@@ -13,9 +13,9 @@ I'm a dedicated <code>QA Specialist</code> with a solid background in manual and
     <img width="6%" title="Selenide" src="images/Selenide.svg">
     <img width="6%" title="Selenoid" src="images/Selenoid.svg">
     <img width="6%" title="Postman" src="images/Postman.svg">
-    <img width="6%" title="MicrosoftSQL" src="images/MSQL.svg">
     <img width="6%" title="Allure Report" src="images/Allure.svg">
     <img width="6%" title="Jenkins" src="images/Jenkins.svg">
+    <img width="6%" title="MicrosoftSQL" src="images/MSQL.svg">
     <img width="6%" title="Jira" src="images/Jira.svg">
     <img width="6%" title="Allure TestOps" src="images/AllureTestOps.svg">
     <img width="6%" title="RestAssured" src="images/RestAssured.png">
