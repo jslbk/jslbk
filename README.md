@@ -1,5 +1,4 @@
-<h1 align="left">Hey, I'm Julyan! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"/></h1>
-
+<h1 align="left">  Hey, I'm Julyan!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" style="height:1em;"></h1>
 I'm a dedicated <code>QA Specialist</code> with a solid background in manual and automation testing.
 
 ---
