@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Julyan!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" style="height:1em; width:auto;"></h1>
+<h1 align="left">Hey, I'm Julyan!   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" style="height:32px; width:32px;"></h1>
 I'm a dedicated <code>QA Specialist</code> with a solid background in manual and automation testing.
 
 ---
@@ -21,16 +21,17 @@ I'm a dedicated <code>QA Specialist</code> with a solid background in manual and
     <img width="6%" title="Appium" src="images/Appium.png">
 </p>
 
-> List of technologies and languages I've had experience with in the past, or use currently.
+<p align="center"> List of technologies and languages I've had experience with in the past, or use currently.</p>
 
 ----
 ## 🚀  Skills:
-- **Manual and Automation Testing**: Proficient in both manual and automation testing methodologies.
-- **Test Scenario Creation**: Skilled at creating comprehensive test scenarios for web and mobile applications.
-- **Database Management**: Experienced in working with SQL databases.
-- **Project Management Tools**: Proficient in managing tasks using Jira and collaborating through Confluence systems.
-- **UI Automation Testing**: Actively contributed to enhancing UI automation tests using Java, Selenide, and JUnit5.
-- **CI/CD Workflow Management**: Efficiently manage test automation workflows within Jenkins CI/CD system.
+- **Manual and Automation Testing** — designing test strategies and executing manual & automated test suites  
+- **Test Scenario Creation** — creating test plans, test cases and automation scenarios  
+- **Database Management** — working with relational databases and SQL queries  
+- **API Testing** — testing REST APIs with Postman and Rest Assured  
+- **UI Automation Testing** — developing automated UI tests using **Java, Selenide and JUnit5**  
+- **CI/CD Workflow Management** — integrating automated tests into **Jenkins pipelines**  
+- **Test Management Tools** — managing tasks and defects in **Jira / Confluence**
 
 
 ----
