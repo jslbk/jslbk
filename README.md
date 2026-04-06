@@ -33,15 +33,19 @@ I'm a dedicated <code>QA Specialist</code> with a solid background in manual and
 - **CI/CD Workflow Management** — integrating automated tests into **Jenkins pipelines**  
 - **Test Management Tools** — managing tasks and defects in **Jira / Confluence**
 
-
 ----
+
 ## 📂 Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=ui_test_automation&text_color=F0F0F0&bg_color=161B22&border_color=161B22)](https://github.com/jslbk/ui_test_automation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=mobile_tests&text_color=F0F0F0&bg_color=161B22&border_color=161B22)](https://github.com/jslbk/mobile_tests)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jslbk&repo=rest_api_test_project&text_color=F0F0F0&bg_color=161B22&border_color=161B22)](https://github.com/jslbk/rest_api_test_project)
+
+[![UI Test Automation](https://gh-card.dev/repos/jslbk/ui_test_automation.svg?theme=github_dark)](https://github.com/jslbk/ui_test_automation)
+[![Mobile Tests](https://gh-card.dev/repos/jslbk/mobile_tests.svg?theme=github_dark)](https://github.com/jslbk/mobile_tests)
+[![API Tests](https://gh-card.dev/repos/jslbk/rest_api_test_project.svg?theme=github_dark)](https://github.com/jslbk/rest_api_test_project)
+[![API Tests](https://gh-card.dev/repos/jslbk/sonarqube-demo.svg?theme=github_dark)](https://github.com/jslbk/sonarqube-demo)
 
 ---
+
 ## 📫 Get in Touch
-[![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/julyanslabko)
-[![Gmail](https://img.shields.io/badge/gmail-grey?style=for-the-badge&logo=gmail)](mailto:juljans.slabko@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julyan-slabko/)
+
+[![Telegram](https://img.shields.io/badge/Telegram-151b23?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/julyanslabko)
+[![Email](https://img.shields.io/badge/Email-151b23?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juljans.slabko@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-151b23?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julyan-slabko/)
