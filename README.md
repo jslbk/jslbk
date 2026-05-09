@@ -30,7 +30,7 @@ I'm a dedicated <code>QA Specialist</code> with a solid background in manual and
 - **Database Management** — working with relational databases and SQL queries  
 - **API Testing** — testing REST APIs with Postman and Rest Assured  
 - **UI Automation Testing** — developing automated UI tests using **Java, Selenide and JUnit5**  
-- **CI/CD Workflow Management** — integrating automated tests into **Jenkins pipelines**  
+- **CI Workflow Management** — integrating automated tests into **Jenkins pipelines**  
 - **Test Management Tools** — managing tasks and defects in **Jira / Confluence**
 
 ----
